@@ -1,4 +1,4 @@
-# <name> Incident Copilot
+# <pulse> Incident Copilot
 
 ## 1. Who is it for?
 A developer or small team running 3 to 5 backend services who can't
